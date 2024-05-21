@@ -4,8 +4,6 @@ void greet();
 
 int main() {
     printf("Hello, World!\n");
-    printf("change the main file");
-    greet();
     return 0;
 }
 

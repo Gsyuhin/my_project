@@ -5,3 +5,8 @@ int main() {
     printf("change the main file");
     return 0;
 }
+
+
+void greet(){
+    printf("Hello, user!");
+}
